@@ -11,8 +11,8 @@ Major features:
 Theoretical background:
 - The partial wave expansion method [1];
 - The translation addition theorem [2];
-- The conformal mapping technique [3];
-- The Lyapunov stability theorem [4].
+- The conformal mapping technique [3, 4];
+- The Lyapunov stability theorem [5].
 
 
 ## Contact
@@ -33,7 +33,9 @@ Tianquan Tang
 
 [3] T. Tang, L. Huang, An efficient semi-analytical procedure to calculate acoustic radiation force and torque for axisymmetric irregular bodies, Journal of Sound and Vibration 532 (2022) 117012. DOI: https://doi.org/10.1016/j.jsv.2022.117012
 
-[4] A. P. Seyranian and A. A. Mailybaev, Multiparameter stability theory with mechanical applications, World Scientifc, 2003.
+[4] T. Tang, L. Huang. Soundiation: A software in evaluation of acoustophoresis driven by radiation force and torque on axisymmetric objects. The Journal of the Acoustical Society of America 152.5 (2022): 2934-2945. DOI: https://doi.org/10.1121/10.0015199
+
+[5] A. P. Seyranian and A. A. Mailybaev, Multiparameter stability theory with mechanical applications, World Scientifc, 2003.
 
 
 - Paper
