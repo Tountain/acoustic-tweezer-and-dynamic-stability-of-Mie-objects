@@ -40,5 +40,5 @@ Tianquan Tang
 
 - Paper
 
-[1] T. Tang, M. Wu, L. Huang, Partial derivatives of acoustic radiation force and dynamic equilibrium stability of acoustophoresis, Physical Review E (2026)
+[1] T. Tang, M. Wu, L. Huang, Partial derivatives of acoustic radiation force and dynamic equilibrium stability of acoustophoresis, Physical Review E 114 (2026) 025106. DOI: https://link.aps.org/doi/10.1103/tr71-16md
 
